@@ -91,6 +91,7 @@ Operator relasi ini akan banyak digunakan dalam suatu statement bersyarat yang m
 nilai True atau False. Akan sering digunakan untuk menentukan kondisi.
 
 | Operator |          Keterangan     |
+| -------- | ----------------------- |
 |    ==    |         Sama Dengan     |
 |    !=    |     Tidak Sama Dengan   |
 |    >     |         Lebih Dari      |
@@ -104,14 +105,23 @@ nilai True atau False. Akan sering digunakan untuk menentukan kondisi.
 Operator logika ini adalah operator yang digunakan untuk membandingkan dua nilai variabel
 atau lebih. Hasil dari operasi ini adalah nilai boolean true atau false.
 
-| Operator |                   Keterangan                  |
-|    &&    | AND - Jika semua operand bernilai benar (TRUE)|
-|          | maka kondisi bernilai benar.                  |          
-|    ||    | OR - Jika salah satu operand bernilai benar   |
-|          | (TRUE) maka kondisi bernilai benar.           |
-|    !     | NOT - Digunakan untuk membalik kondisi. Jika  |
-|          | kondisi benar (TRUE) maka akan berubah menjadi|
-|          | salah (FALSE), begitu pula sebaliknya.        |
+| Operator |                   Keterangan                   |
+| -------- | ---------------------------------------------- |
+|    &&    | AND - Jika semua operand bernilai benar (TRUE) |
+|          | maka kondisi bernilai benar.                   |          
+|    ||    | OR - Jika salah satu operand bernilai benar    |
+|          | (TRUE) maka kondisi bernilai benar.            |
+|    !     | NOT - Digunakan untuk membalik kondisi. Jika   |
+|          | kondisi benar (TRUE) maka akan berubah menjadi |
+|          | salah (FALSE), begitu pula sebaliknya.         |
 
 
-## Conditional Te
+## Conditional Ternary Operator
+
+
+
+## Comma Operator
+
+
+
+## Bitwise Operators
