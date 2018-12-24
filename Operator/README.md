@@ -3,21 +3,22 @@
 Operator adalah simbol khusus yang biasa dilibatkan dalam program untuk melakukan suatu operasi
 matematika maupun operasi logika
 
+
 ## Assignment Operators
 
 Operator ini berfungsi memberikan sebuah nilai kepada variabel. Dengan menggunakan tanda = (_Sama Dengan_).  
 Pemberian nilai ini selalu dimulai dari _Kanan_ ke _Kiri_. Dan tidak bisa sebaliknya.
 
 contoh : 
-'''cpp
-x = 5;
-'''
+```cpp  
+x = 5;  
+```
 Pada pernyataan ini memberikan nilai integer 5 kedalam variabel x.  
 
 contoh :   
-'''cpp
-x = y;
-'''
+```cpp  
+x = y;  
+```
 
 Pada pernyataan ini memberikan nilai pada variabel y kedalam variabel x. Dan nilai yang ada di variabel x tadi hilang dan di gantikan nilai variable y.
 
@@ -36,26 +37,26 @@ Operator ini digunakan untuk melakukan sebuah operasi perhitungan atau aritmatik
 
 Contoh Penggunaan Arithmetic Operator : 
 
-'''cpp
-int a = 5;
-int b = 2;
+```cpp
+int a = 5;  
+int b = 2;  
 
-cout << a+b ; // Penjumlahan 
-cout << a-b ; // Pengurangan
-cout << a*b ; // Perkalian
-cout << a/b ; // Pembagian
-cout << a%b ; // Sisa Bagi
-'''
+cout << a+b ; // Penjumlahan   
+cout << a-b ; // Pengurangan  
+cout << a*b ; // Perkalian  
+cout << a/b ; // Pembagian  
+cout << a%b ; // Sisa Bagi  
+```
 
 Output : 
 
-'''cpp
-7
-3
-10
-2	// karena menggunakan tipe data int, maka ditampilkan 2 saja.
-1	// sisa bagi dari operasi 5:2
-'''
+```cpp
+7  
+3  
+10  
+2	// karena menggunakan tipe data int, maka ditampilkan 2 saja.  
+1	// sisa bagi dari operasi 5:2  
+```
 
 
 

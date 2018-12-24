@@ -17,8 +17,8 @@ Tipe Data   = int
 Nama Array  = array  
 Elemen      = 5
 
-3 | 5 | 6 | 2 | 8 | 7 | -> Elemen Array  
-0 | 1 | 2 | 3 | 4 | 5 | -> Index Array  
+| 3 | 5 | 6 | 2 | 8 | 7 | -> Elemen Array  
+| 0 | 1 | 2 | 3 | 4 | 5 | -> Index Array  
 
 ## Array Dua Dimensi
 ---
